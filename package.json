@@ -1,0 +1,15 @@
+{
+  "name": "@fkeles/tutorial-how-to-npm",
+  "version": "1.0.0",
+  "description": "tutorial for how to npm trail",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "fkeles",
+  "license": "ISC",
+  "repository": "https://github.com/fatih-keles/hello-world.git",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
